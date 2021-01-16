@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aeb4620a.chunk.css",
+    "main.js": "/static/js/main.6096ce9c.chunk.js",
+    "main.js.map": "/static/js/main.6096ce9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c20065db.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c20065db.js.map",
+    "static/js/2.fb1eaf3b.chunk.js": "/static/js/2.fb1eaf3b.chunk.js",
+    "static/js/2.fb1eaf3b.chunk.js.map": "/static/js/2.fb1eaf3b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.aeb4620a.chunk.css.map": "/static/css/main.aeb4620a.chunk.css.map",
+    "static/js/2.fb1eaf3b.chunk.js.LICENSE.txt": "/static/js/2.fb1eaf3b.chunk.js.LICENSE.txt",
+    "static/media/analogSetYellow.10e7a0c9.jpg": "/static/media/analogSetYellow.10e7a0c9.jpg",
+    "static/media/fireworks.3068973b.jpg": "/static/media/fireworks.3068973b.jpg",
+    "static/media/hardtofind.cbac8437.jpg": "/static/media/hardtofind.cbac8437.jpg",
+    "static/media/knownbyheart.9ece7d7c.jpg": "/static/media/knownbyheart.9ece7d7c.jpg",
+    "static/media/ourlivingroom.5bf76b6e.jpg": "/static/media/ourlivingroom.5bf76b6e.jpg",
+    "static/media/promiseoflove.e6c49cc2.jpg": "/static/media/promiseoflove.e6c49cc2.jpg",
+    "static/media/album.css": "/static/media/proxima-nova.7bc9ce40.otf",
+    "static/media/setfree.ed014363.jpg": "/static/media/setfree.ed014363.jpg",
+    "static/media/thegoldenband.e5076bdb.jpg": "/static/media/thegoldenband.e5076bdb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20065db.js",
+    "static/js/2.fb1eaf3b.chunk.js",
+    "static/css/main.aeb4620a.chunk.css",
+    "static/js/main.6096ce9c.chunk.js"
+  ]
+}

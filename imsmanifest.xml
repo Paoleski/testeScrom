@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="LP.Paoleski.TheAmanSet.5bd45cc5-1834-4ea6-8ca2-ad19d203af05" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Paoleski">
+    <organization identifier="Paoleski">
+      <title>The Aman Set</title>
+      <item identifier="item_LP.Paoleski.TheAmanSet.5bd45cc5-1834-4ea6-8ca2-ad19d203af05" identifierref="resource_LP.Paoleski.TheAmanSet.5bd45cc5-1834-4ea6-8ca2-ad19d203af05">
+        <title>The Aman Set</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_LP.Paoleski.TheAmanSet.5bd45cc5-1834-4ea6-8ca2-ad19d203af05" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="asset-manifest.json"/>
+      <file href="favicon.ico"/>
+      <file href="index.html"/>
+      <file href="logo192.png"/>
+      <file href="logo512.png"/>
+      <file href="manifest.json"/>
+      <file href="robots.txt"/>
+      <file href="static/css/main.aeb4620a.chunk.css"/>
+      <file href="static/css/main.aeb4620a.chunk.css.map"/>
+      <file href="static/js/2.fb1eaf3b.chunk.js"/>
+      <file href="static/js/2.fb1eaf3b.chunk.js.LICENSE.txt"/>
+      <file href="static/js/2.fb1eaf3b.chunk.js.map"/>
+      <file href="static/js/main.6096ce9c.chunk.js"/>
+      <file href="static/js/main.6096ce9c.chunk.js.map"/>
+      <file href="static/js/runtime-main.c20065db.js"/>
+      <file href="static/js/runtime-main.c20065db.js.map"/>
+      <file href="static/media/analogSetYellow.10e7a0c9.jpg"/>
+      <file href="static/media/fireworks.3068973b.jpg"/>
+      <file href="static/media/hardtofind.cbac8437.jpg"/>
+      <file href="static/media/knownbyheart.9ece7d7c.jpg"/>
+      <file href="static/media/ourlivingroom.5bf76b6e.jpg"/>
+      <file href="static/media/promiseoflove.e6c49cc2.jpg"/>
+      <file href="static/media/proxima-nova.7bc9ce40.otf"/>
+      <file href="static/media/setfree.ed014363.jpg"/>
+      <file href="static/media/thegoldenband.e5076bdb.jpg"/>
+    </resource>
+  </resources>
+</manifest>
